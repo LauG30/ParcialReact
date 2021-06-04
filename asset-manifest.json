@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ParcialReact/static/css/main.0ff828da.chunk.css",
+    "main.js": "/ParcialReact/static/js/main.166dc197.chunk.js",
+    "main.js.map": "/ParcialReact/static/js/main.166dc197.chunk.js.map",
+    "runtime-main.js": "/ParcialReact/static/js/runtime-main.a7029239.js",
+    "runtime-main.js.map": "/ParcialReact/static/js/runtime-main.a7029239.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/ParcialReact/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9dba8da6.chunk.js": "/ParcialReact/static/js/2.9dba8da6.chunk.js",
+    "static/js/2.9dba8da6.chunk.js.map": "/ParcialReact/static/js/2.9dba8da6.chunk.js.map",
+    "index.html": "/ParcialReact/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/ParcialReact/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.0ff828da.chunk.css.map": "/ParcialReact/static/css/main.0ff828da.chunk.css.map",
+    "static/js/2.9dba8da6.chunk.js.LICENSE.txt": "/ParcialReact/static/js/2.9dba8da6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7029239.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.9dba8da6.chunk.js",
+    "static/css/main.0ff828da.chunk.css",
+    "static/js/main.166dc197.chunk.js"
+  ]
+}
